@@ -1,0 +1,211 @@
+﻿review_id,date,platform,rating,language,review_text
+R-1001,2026-08-01,Amazon,2,English,Spice level was way too high even though I selected mild.
+R-1002,2026-08-01,Google,2,Tamil,"ரீஃபண்ட் தருவோம்னு சொன்னாங்க, இன்னும் வரல."
+R-1003,2026-08-01,Zomato,4,Tanglish,"Kothu parotta vera level, but price konjam adhigam"
+R-1004,2026-08-01,Swiggy,5,Kannada,"ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿತ್ತು, ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಬಂತು."
+R-1005,2026-08-02,Google,4,Hinglish,Rajma chawal ghar jaisa laga. Thoda aur rajma hota toh 5 star
+R-1006,2026-08-02,FoodPanda,2,Spanish,El cupón de descuento no funcionó al pagar.
+R-1007,2026-08-02,FoodPanda,5,Spanish,Rapidísimo y todo muy fresco. Mi app favorita para pedir comida.
+R-1008,2026-08-03,Swiggy,5,Tanglish,"Super fast delivery, 20 nimishathula vandhuchu. Chumma theri!"
+R-1009,2026-08-04,Google,1,English,"Ordered paneer butter masala, got chicken instead. I'm vegetarian. Totally unacceptable, refund still pending after 3 days."
+R-1010,2026-08-05,Google,1,English,App showed delivered but I never got the order. Customer care chat closed my ticket without solving.
+R-1011,2026-08-05,Swiggy,1,Hindi,खाने में कीड़ा निकला। शिकायत की पर कोई जवाब नहीं मिला।
+R-1012,2026-08-06,Google,4,German,"Schönes Ambiente und freundliches Personal, Wartezeit etwas lang."
+R-1013,2026-08-06,Amazon,2,German,Mir wurde die Bestellung doppelt abgebucht. Keine Antwort vom Support.
+R-1014,2026-08-06,FoodPanda,5,French,Livraison rapide et plats encore chauds. Je recommande !
+R-1015,2026-08-07,Zomato,1,Telugu (Romanized),"Delivery boy gate daggara ki randi annadu, paiki raanu annadu"
+R-1016,2026-08-08,Google,5,Hindi,डिलीवरी बॉय बहुत विनम्र था। बारिश में भी खाना गरम पहुँचाया।
+R-1017,2026-08-08,Google,5,Telugu (Romanized),"Super fast delivery, 15 nimishallo vachindi. Keka!"
+R-1018,2026-08-08,Swiggy,5,Malayalam,ഭക്ഷണം വളരെ രുചികരമായിരുന്നു. വീണ്ടും ഓർഡർ ചെയ്യും.
+R-1019,2026-08-08,Zomato,5,Malayalam (Romanized),Porotta beef kidilan! Packing um nannayirunnu
+R-1020,2026-08-09,Zomato,3,Hinglish,"Theek hai, kuch special nahi. Price ke hisaab se average"
+R-1021,2026-08-09,Swiggy,5,Telugu,భోజనం చాలా రుచిగా ఉంది. ఇంటి వంట లాగే అనిపించింది.
+R-1022,2026-08-09,Google,4,Malayalam (Romanized),"Appam stew nannayirunnu, delivery kurachu late aayi"
+R-1023,2026-08-10,FoodPanda,3,Spanish,Llegó rápido pero la pizza estaba algo aplastada.
+R-1024,2026-08-10,Google,2,German,Das Eis war komplett geschmolzen.
+R-1025,2026-08-11,Amazon,5,Tamil,சிக்கன் 65 செம டேஸ்ட்! மறுபடியும் ஆர்டர் பண்ணுவேன்.
+R-1026,2026-08-11,Amazon,1,Malayalam,തെറ്റായ ഓർഡർ ആണ് കിട്ടിയത്. കസ്റ്റമർ കെയർ മറുപടി തന്നില്ല.
+R-1027,2026-08-11,Google,3,Spanish,"Normal, nada especial. Cumple pero no sorprende."
+R-1028,2026-08-12,FoodPanda,3,English,Average. Nothing special. Naan was chewy.
+R-1029,2026-08-12,Zomato,5,Hinglish,"Bhai kya mast biryani thi! Full paisa vasool, next time bhi yahin se order karunga"
+R-1030,2026-08-12,Google,2,Telugu (Romanized),"Refund kosam moodu sarlu call chesanu, inka raledu"
+R-1031,2026-08-13,Amazon,4,English,"Instant noodles combo was a good deal, delivered next day."
+R-1032,2026-08-13,Zomato,2,Telugu,"రీఫండ్ ఇస్తామన్నారు, ఇంకా రాలేదు."
+R-1033,2026-08-13,Amazon,2,Telugu,"కూపన్ పని చేయలేదు, పూర్తి డబ్బు కట్టాల్సి వచ్చింది."
+R-1034,2026-08-14,Swiggy,2,Tamil,பிரியாணில கறி ரொம்ப கம்மி. விலைக்கு ஏத்த மாதிரி இல்ல.
+R-1035,2026-08-14,Google,4,German,"Sehr gutes Curry, nur etwas zu scharf für meinen Geschmack."
+R-1036,2026-08-15,Zomato,1,Hinglish,"Cold drink order kiya tha woh aaya hi nahi, aur bill mein charge kar diya"
+R-1037,2026-08-15,Zomato,2,Hinglish,Paneer tikka mein paneer kam aur shimla mirch zyada 😒
+R-1038,2026-08-17,Google,5,Tanglish,Biryani semma taste! Packing um super. Kandippa thirumba order panuven
+R-1039,2026-08-18,Amazon,5,Hindi,"थाली में सब कुछ था - दाल, सब्ज़ी, चावल, रोटी, मीठा। पैसा वसूल!"
+R-1040,2026-08-18,Zomato,5,Telugu (Romanized),Biryani adiripoyindi! Packing kuda super. Malli order chestha
+R-1041,2026-08-18,Google,2,German,Die Portion war viel zu klein für den Preis.
+R-1042,2026-08-19,FoodPanda,4,German,"Gutes Preis-Leistungs-Verhältnis, der Reis war etwas trocken."
+R-1043,2026-08-20,Zomato,5,Tamil,டெலிவரி பையன் ரொம்ப மரியாதையா பேசினார். மழையிலும் சரியான நேரத்துக்கு கொண்டு வந்தார்.
+R-1044,2026-08-20,FoodPanda,3,German,"Ganz okay, nichts Besonderes."
+R-1045,2026-08-21,Amazon,4,English,"Tasty shawarma, generous filling. Would be 5 stars if they added more garlic sauce."
+R-1046,2026-08-21,Amazon,3,English,Food was good but the rider asked me to come down to the gate. Not okay when I paid for delivery.
+R-1047,2026-08-21,Swiggy,4,Hinglish,"Pav bhaji badhiya thi, butter bhi extra diya. Thank you"
+R-1048,2026-08-21,Swiggy,1,Tamil,"தப்பான ஆர்டர் வந்துச்சு. நான் வெஜ் கேட்டேன், நான்-வெஜ் அனுப்பிட்டாங்க."
+R-1049,2026-08-21,Google,3,Spanish,"Sabor aceptable, pero el envase estaba roto y se derramó la salsa."
+R-1050,2026-08-25,Swiggy,1,Telugu,కస్టమర్ కేర్ నుంచి ఎవరూ స్పందించలేదు. చాలా దారుణం.
+R-1051,2026-08-25,Google,4,Telugu,"రెస్టారెంట్ వాతావరణం బాగుంది, సర్వీస్ కొంచెం నెమ్మది."
+R-1052,2026-08-26,Swiggy,4,English,"Quick delivery in rain, appreciate the effort. Pizza a bit soggy though."
+R-1053,2026-08-27,Zomato,5,English,Super fast!! 18 mins. Hot momos with spicy chutney. Perfect for the rainy evening
+R-1054,2026-08-27,FoodPanda,4,Spanish,"Los tacos al pastor estaban deliciosos, faltó un poco más de salsa."
+R-1055,2026-08-27,FoodPanda,1,French,"Commande arrivée avec une heure de retard, tout était froid."
+R-1056,2026-08-28,Swiggy,5,English,"Best masala dosa in the area, crispy and the sambar was spot on."
+R-1057,2026-08-28,Swiggy,5,English,Gulab jamun was soft and warm. Kids loved it ❤️
+R-1058,2026-08-28,Swiggy,2,Hindi,"रिफंड का वादा किया था, पाँच दिन हो गए अभी तक पैसा नहीं आया।"
+R-1059,2026-08-28,Zomato,3,Telugu (Romanized),Food ok kani extra charges chala ekkuva
+R-1060,2026-08-29,Zomato,5,English,"Ordered for a party of 15, everything arrived on time and well labelled. Great service!"
+R-1061,2026-08-29,Zomato,4,Hindi,"दाल मखनी अच्छी थी, रोटी थोड़ी ठंडी आई।"
+R-1062,2026-08-29,Swiggy,2,Hindi,पिज़्ज़ा पूरा ठंडा और कड़क था।
+R-1063,2026-08-29,Swiggy,3,Tanglish,"Taste ok but delivery charge, platform fee nu romba extra charge"
+R-1064,2026-08-30,Amazon,5,English,"Gift hamper of snacks arrived on time for Diwali, well packed. Very happy."
+R-1065,2026-08-30,Zomato,2,Tanglish,Sappadu nalla irundhuchu aana container udanji gravy ellam kotti pochu
+R-1066,2026-08-31,Google,4,Tamil,"ஃபில்டர் காபி அருமை, இட்லி கொஞ்சம் கெட்டியா இருந்துச்சு."
+R-1067,2026-09-01,Google,5,English,Delivery partner was super polite and came 10 mins early. Food hot and fresh 👍
+R-1068,2026-09-01,Zomato,1,Telugu,తప్పు ఆర్డర్ వచ్చింది. నేను వెజ్ ఆర్డర్ చేస్తే నాన్-వెజ్ పంపారు.
+R-1069,2026-09-01,FoodPanda,5,Spanish,"Comida casera de verdad, como la de mi abuela. ❤️"
+R-1070,2026-09-03,Zomato,2,Hindi,ऐप पर ऑफर दिखा पर पेमेंट के समय लागू नहीं हुआ।
+R-1071,2026-09-03,Zomato,3,Hindi,डिलीवरी जल्दी हुई पर खाने का स्वाद औसत था।
+R-1072,2026-09-03,Google,5,Tamil,சாப்பாடு ரொம்ப சுவையா இருந்துச்சு. வீட்டு சாப்பாடு மாதிரியே இருக்கு.
+R-1073,2026-09-03,Amazon,1,Kannada,"ಆರ್ಡರ್ ಒಂದು ಗಂಟೆ ತಡವಾಗಿ ಬಂತು, ಊಟ ತಣ್ಣಗಾಗಿತ್ತು."
+R-1074,2026-09-03,Amazon,4,Spanish,El pack de snacks llegó en buen estado y antes de la fecha estimada.
+R-1075,2026-09-03,Google,5,German,"Alles perfekt, von der Bestellung bis zur Lieferung. Danke!"
+R-1076,2026-09-05,Zomato,3,English,Food ok but delivery charges + platform fee + packing charge = more than the food cost lol
+R-1077,2026-09-05,Zomato,1,Telugu (Romanized),"Order chala late ga vachindi, food motham challaga aipoyindi"
+R-1078,2026-09-05,Amazon,1,German,"Ein Haar im Essen gefunden. Ekelhaft, nie wieder."
+R-1079,2026-09-07,Swiggy,5,English,10/10 would order again. The butter chicken is to die for.
+R-1080,2026-09-07,Swiggy,3,English,Taste is fine but the containers were cracked and gravy spilled in the bag.
+R-1081,2026-09-07,Swiggy,4,Kannada (Romanized),"Delivery bega aaythu, packing chennagittu"
+R-1082,2026-09-08,Google,4,Tamil,"தோசை நல்லா மொறுமொறுனு இருந்துச்சு, சட்னி கொஞ்சம் காரம் அதிகம்."
+R-1083,2026-09-09,Swiggy,5,Tanglish,Idli sambar veetu saapadu maadhiri irundhuchu. Romba nalla irundhuchu
+R-1084,2026-09-10,Google,3,Hindi,"खाना अच्छा था लेकिन पैकेट फटा हुआ था, थोड़ा गिर गया था।"
+R-1085,2026-09-10,Swiggy,4,Malayalam,"ബിരിയാണി നല്ലതായിരുന്നു, പക്ഷേ അൽപ്പം എരിവ് കൂടുതൽ."
+R-1086,2026-09-10,FoodPanda,1,Spanish,Me trajeron un pedido equivocado y el soporte no respondió.
+R-1087,2026-09-10,FoodPanda,2,Spanish,Prometieron reembolso hace una semana y todavía nada.
+R-1088,2026-09-10,Google,1,Spanish,Encontré un pelo en la ensalada. Asqueroso.
+R-1089,2026-09-13,Google,1,English,Waited 1.5 hours. Order cancelled by restaurant at the last minute. Wasted my whole evening.
+R-1090,2026-09-13,FoodPanda,3,English,Delivery was fast but the driver couldn't find my apartment and kept calling.
+R-1091,2026-09-13,Google,1,German,Falsche Bestellung geliefert und der Kundenservice reagiert nicht.
+R-1092,2026-09-14,Google,5,English,Ambience is great and staff are friendly. Dine-in experience was excellent.
+R-1093,2026-09-14,Google,2,Spanish,El helado llegó completamente derretido.
+R-1094,2026-09-16,FoodPanda,4,English,Liked the eco-friendly packaging. Food was decent.
+R-1095,2026-09-16,Swiggy,3,Tamil,சாப்பாடு நல்லா இருந்துச்சு ஆனா பில்ல எக்ஸ்ட்ரா சார்ஜ் போட்டாங்க.
+R-1096,2026-09-17,Google,1,German,"Unfreundlicher Fahrer, hat die Tüte einfach vor die Tür geworfen."
+R-1097,2026-09-18,Swiggy,4,English,Good value meal combo. Chapati a bit dry.
+R-1098,2026-09-18,Zomato,3,English,meh
+R-1099,2026-09-18,Amazon,1,English,Expired masala packet received. Check the dates before shipping!
+R-1100,2026-09-20,Google,5,Spanish,Las mejores empanadas que he probado en mucho tiempo. 100% recomendado.
+R-1101,2026-09-21,Google,4,Hindi,"छोले भटूरे बढ़िया थे, बस भटूरे थोड़े तेल वाले थे।"
+R-1102,2026-09-21,FoodPanda,1,Spanish,El pedido tardó más de una hora y llegó frío. Pésimo servicio.
+R-1103,2026-09-22,Swiggy,3,Telugu,ఆహారం బాగుంది కానీ ప్యాకింగ్ ఛార్జీలు ఎక్కువ వేశారు.
+R-1104,2026-09-22,Swiggy,1,Telugu (Romanized),Last minute lo order cancel chesaru. Gantasepu wait chesanu
+R-1105,2026-09-24,Zomato,1,Hindi,"ग्राहक सेवा से बात करना नामुमकिन है, सिर्फ़ ऑटोमैटिक जवाब मिलते हैं।"
+R-1106,2026-09-24,Google,4,Tanglish,"Parotta nalla soft ah irundhuchu, salna konjam kaaram jaasthi"
+R-1107,2026-09-24,Zomato,2,Kannada,ಬೆಲೆಗೆ ತಕ್ಕಂತೆ ಪ್ರಮಾಣ ಇಲ್ಲ.
+R-1108,2026-09-24,FoodPanda,1,German,Bestellung nach 45 Minuten ohne Begründung storniert.
+R-1109,2026-09-25,Swiggy,5,Telugu,"మీల్స్ అద్భుతం! పప్పు, సాంబార్, పెరుగు అన్నీ బాగున్నాయి."
+R-1110,2026-09-26,Zomato,4,Tanglish,"Chicken fried rice nalla irundhuchu, but konjam oil jaasthi"
+R-1111,2026-09-26,Google,4,Telugu (Romanized),Taste bagundi kani konchem karam ekkuva
+R-1112,2026-09-26,Google,3,German,"Schnelle Lieferung, aber die Nudeln waren verkocht."
+R-1113,2026-09-27,Google,1,Tanglish,Order cancel panitanga last minute la. Oru mani neram wait panniten
+R-1114,2026-09-28,Swiggy,4,English,"Ordered the healthy bowl, fresh veggies and good dressing. Slightly pricey."
+R-1115,2026-09-29,Swiggy,1,Hindi,"दो घंटे इंतज़ार किया, फिर ऑर्डर कैंसल कर दिया। बहुत ही खराब सर्विस।"
+R-1116,2026-10-02,Zomato,5,Tamil,"மீல்ஸ் அருமை! சாம்பார், ரசம், பொரியல் எல்லாமே சூப்பர்."
+R-1117,2026-10-02,Zomato,1,Kannada,"ತಪ್ಪು ಆರ್ಡರ್ ಬಂತು, ರೀಫಂಡ್ ಇನ್ನೂ ಸಿಕ್ಕಿಲ್ಲ."
+R-1118,2026-10-03,Swiggy,1,Hindi,"गलत ऑर्डर आया। मैंने वेज मंगाया था, नॉन-वेज भेज दिया।"
+R-1119,2026-10-04,Google,3,Tamil,"பரவாயில்ல, சராசரியான சுவை தான்."
+R-1120,2026-10-04,Amazon,1,Spanish,Cancelaron mi pedido sin avisar después de 50 minutos de espera.
+R-1121,2026-10-04,FoodPanda,2,German,"Rückerstattung wurde versprochen, aber nach einer Woche immer noch nichts."
+R-1122,2026-10-05,Swiggy,2,Telugu,బిర్యానీలో ముక్కలు చాలా తక్కువ. ధరకు తగ్గ విలువ లేదు.
+R-1123,2026-10-07,Amazon,5,Hinglish,Momos ekdum fresh aur chutney toh kamaal ki thi 🔥
+R-1124,2026-10-07,Swiggy,2,Tanglish,"Quantity romba kammi, rendu peruku order panna oruthanuku kooda podhala"
+R-1125,2026-10-08,Zomato,3,Hinglish,Khana accha tha but extra packing charge aur platform fee bahut zyada hai
+R-1126,2026-10-08,Google,4,Tamil,"ஹோட்டல் சூழல் நல்லா இருக்கு, சர்வீஸ் கொஞ்சம் மெதுவா இருந்துச்சு."
+R-1127,2026-10-09,Amazon,3,Tanglish,"Paravalla, average taste dhaan"
+R-1128,2026-10-09,Zomato,3,Telugu,"పర్వాలేదు, సాధారణ రుచి."
+R-1129,2026-10-09,Zomato,5,Telugu (Romanized),"Pesarattu, upma superb ga undi. Intlo vanta la undi"
+R-1130,2026-10-09,Zomato,1,Malayalam,"ഒരു മണിക്കൂർ വൈകിയാണ് എത്തിയത്, ഭക്ഷണം തണുത്തുപോയി."
+R-1131,2026-10-09,Amazon,1,Spanish,El repartidor fue grosero y dejó la bolsa en el suelo.
+R-1132,2026-10-09,FoodPanda,3,German,"Geschmacklich in Ordnung, aber die Verpackung war undicht."
+R-1133,2026-10-10,Swiggy,2,Hinglish,"Refund ke liye 3 baar call kiya, har baar bolte hain 48 hours wait karo"
+R-1134,2026-10-10,Zomato,1,Tanglish,"Food romba late ah vandhuchu, full ah aari pochu. Waste of money"
+R-1135,2026-10-10,FoodPanda,5,German,"Das Essen kam heiß und pünktlich an. Sehr lecker, gerne wieder!"
+R-1136,2026-10-11,Amazon,5,Kannada (Romanized),Bisi bele bath super aagittu! Matte order madthini
+R-1137,2026-10-11,Amazon,4,German,Die Snackbox kam gut verpackt und einen Tag früher an.
+R-1138,2026-10-12,Google,5,Hindi,"मिठाई एकदम ताज़ी थी, पैकिंग भी शानदार। त्योहार के लिए परफेक्ट।"
+R-1139,2026-10-12,Swiggy,2,Tamil,"கூப்பன் வேலை செய்யல, முழு பணம் கட்ட வேண்டியதா போச்சு."
+R-1140,2026-10-12,Google,2,Spanish,Las porciones son muy pequeñas para el precio que cobran.
+R-1141,2026-10-12,Amazon,5,Spanish,"Todo perfecto, desde el pedido hasta la entrega. ¡Gracias!"
+R-1142,2026-10-13,Swiggy,5,Telugu,డెలివరీ బాయ్ చాలా మర్యాదగా ఉన్నారు. వర్షంలో కూడా సమయానికి తెచ్చారు.
+R-1143,2026-10-14,Amazon,4,Hindi,"पैकेज्ड नमकीन अच्छा है, अगले दिन डिलीवरी हो गई।"
+R-1144,2026-10-14,Swiggy,2,Malayalam,വിലയ്ക്ക് അനുസരിച്ച് അളവ് കുറവാണ്.
+R-1145,2026-10-14,Amazon,5,Spanish,El repartidor fue muy amable y llegó antes de lo previsto.
+R-1146,2026-10-16,Swiggy,1,Hinglish,"Delivery boy ne bola gate pe aao, upar nahi aaunga. Phir delivery charge kyun liya?"
+R-1147,2026-10-16,Google,4,Spanish,"Muy rica la paella, aunque un poco salada."
+R-1148,2026-10-17,Swiggy,2,English,Coupon not applied at checkout even though it showed eligible. Paid full amount.
+R-1149,2026-10-17,Google,5,German,Der Fahrer war super freundlich und sogar früher da als angekündigt.
+R-1150,2026-10-18,FoodPanda,4,Spanish,Buena relación calidad-precio. El arroz un poco seco.
+R-1151,2026-10-19,Amazon,2,English,Restaurant closed but still showing open on the app. Order got stuck for 40 mins.
+R-1152,2026-10-19,Amazon,1,French,Le code promo n'a pas fonctionné et le service client ne répond pas.
+R-1153,2026-10-20,Swiggy,2,Hinglish,"Quantity bahut kam hai yaar, do log ke liye bola tha par ek ke liye bhi kam pada"
+R-1154,2026-10-20,Swiggy,1,Tanglish,Saapattula mudi irundhuchu. Hotel la hygiene illa
+R-1155,2026-10-21,Swiggy,4,English,"Late night delivery at 1am, very convenient. Burger was good."
+R-1156,2026-10-21,Swiggy,1,English,Worst customer support ever. Bot keeps repeating same answer. No human agent available.
+R-1157,2026-10-21,Swiggy,2,Hindi,पनीर बहुत कम था और ग्रेवी में नमक ज़्यादा था।
+R-1158,2026-10-21,Google,4,German,"Leckere Pizza, der Rand war allerdings etwas verbrannt."
+R-1159,2026-10-21,Google,3,German,"Essen gut, aber die Liefergebühr ist mittlerweile zu hoch."
+R-1160,2026-10-22,FoodPanda,4,English,"Tried their new Korean menu, quite good. Kimchi fried rice recommended."
+R-1161,2026-10-22,Swiggy,4,Hindi,"बिरयानी का स्वाद लाजवाब, रायता थोड़ा पतला था।"
+R-1162,2026-10-22,Google,3,Spanish,"La comida bien, pero los gastos de envío son demasiado altos."
+R-1163,2026-10-23,Swiggy,4,Telugu,"పెసరట్టు ఉప్మా చాలా బాగుంది, కొంచెం ఆలస్యంగా వచ్చింది."
+R-1164,2026-10-24,Swiggy,5,English,Amazing filter coffee and idli. Feels like home food.
+R-1165,2026-10-24,Google,1,German,Über eine Stunde gewartet und das Essen war eiskalt. Absolut enttäuschend.
+R-1166,2026-10-25,Swiggy,2,Tanglish,"Refund ku moonu thadava call panniten, innum varala"
+R-1167,2026-10-25,Swiggy,4,Telugu,"దోస బాగా కరకరలాడుతూ ఉంది, చట్నీ కొంచెం కారం ఎక్కువ."
+R-1168,2026-10-25,FoodPanda,4,French,"Très bon curry, un peu trop épicé pour moi."
+R-1169,2026-10-26,FoodPanda,5,Spanish,La comida llegó caliente y muy bien empaquetada. ¡Repetiré seguro!
+R-1170,2026-10-27,Swiggy,4,Hinglish,"Taste accha tha, bas thoda zyada teekha tha. Packing solid thi"
+R-1171,2026-10-28,Google,1,Tanglish,"Delivery boy gate kitta vandhu vaanga nu sonnaru, mela vara maatenu sollitaru"
+R-1172,2026-10-28,FoodPanda,5,German,Wie bei Oma! Die Schnitzel waren riesig und super zart.
+R-1173,2026-10-29,Google,1,English,Found a hair in the fried rice. Disgusting. Never ordering from this restaurant.
+R-1174,2026-10-29,Google,2,English,Rude delivery guy. Threw the packet at the door and left.
+R-1175,2026-10-30,Zomato,1,English,Charged twice for the same order. Bank shows two debits. Still no refund.
+R-1176,2026-11-01,Zomato,1,Hinglish,Khane mein baal mila. Restaurant ko hygiene pe dhyan dena chahiye
+R-1177,2026-11-02,Swiggy,5,Hindi,"खाना बहुत स्वादिष्ट था, बिल्कुल घर जैसा। डिलीवरी भी समय पर हुई।"
+R-1178,2026-11-02,Zomato,1,Telugu,ఆహారంలో వెంట్రుక వచ్చింది. శుభ్రత అస్సలు లేదు.
+R-1179,2026-11-02,Swiggy,5,Telugu,చికెన్ 65 సూపర్ టేస్ట్! మళ్ళీ ఆర్డర్ చేస్తాను.
+R-1180,2026-11-02,Zomato,3,Kannada (Romanized),"Oota paravagilla, average aagittu"
+R-1181,2026-11-03,Swiggy,2,English,Portion size has reduced a lot. Same price as last month but half the quantity.
+R-1182,2026-11-03,Swiggy,4,English,"Good taste, little too oily. Packaging was leak proof which I liked."
+R-1183,2026-11-04,Swiggy,5,Hindi,हर बार की तरह इस बार भी बेहतरीन। समोसे गरमा-गरम मिले।
+R-1184,2026-11-05,Google,4,Spanish,"Buen ambiente y atención rápida. El postre, espectacular."
+R-1185,2026-11-06,Amazon,1,Tamil,"ஒரு மணி நேரம் லேட்டா வந்துச்சு, சாப்பாடு முழுசா ஆறிப்போச்சு."
+R-1186,2026-11-06,Swiggy,1,Tamil,கஸ்டமர் கேர்ல யாருமே பதில் சொல்லல. ரொம்ப மோசம்.
+R-1187,2026-11-07,Google,5,Hinglish,"Super fast delivery, 15 min mein aa gaya. Shandaar!"
+R-1188,2026-11-07,Google,2,German,Der Gutscheincode wurde beim Bezahlen nicht akzeptiert.
+R-1189,2026-11-08,Zomato,4,Tamil,"பரோட்டா சால்னா சூப்பர், பேக்கிங் நல்லா இருந்துச்சு."
+R-1190,2026-11-08,Google,2,French,Portions trop petites pour le prix.
+R-1191,2026-11-09,Google,4,Kannada,"ಮಸಾಲೆ ದೋಸೆ ಚೆನ್ನಾಗಿತ್ತು, ಚಟ್ನಿ ಸ್ವಲ್ಪ ಕಡಿಮೆ."
+R-1192,2026-11-10,Google,5,German,Blitzschnell und alles frisch. Klare Empfehlung!
+R-1193,2026-11-12,Google,1,English,Stale bread in the sandwich. Smelled bad. Food safety is a joke here.
+R-1194,2026-11-12,Google,4,Telugu,"హైదరాబాదీ బిర్యానీ అదిరిపోయింది, రైతా కొంచెం పలుచగా ఉంది."
+R-1195,2026-11-12,FoodPanda,2,Spanish,Me cobraron dos veces el mismo pedido. Nadie me da solución.
+R-1196,2026-11-13,Zomato,3,Tamil,"டெலிவரி சீக்கிரம் வந்துச்சு, ஆனா சாப்பாடு சுமார் தான்."
+R-1197,2026-11-15,Google,1,Tamil,சாப்பாட்டுல முடி இருந்துச்சு. சுத்தமே இல்ல.
+R-1198,2026-11-16,Zomato,3,Hindi,"ठीक-ठाक था, कुछ खास नहीं। दाम के हिसाब से मात्रा कम है।"
+R-1199,2026-11-17,Swiggy,2,English,"Missing items - ordered 2 raitas, got 1. Support gave only 20 rs credit."
+R-1200,2026-11-17,Google,4,Telugu (Romanized),"Gongura chicken baagundi, rice konchem takkuva"
+R-1201,2026-11-17,Amazon,5,German,"Bester Döner in der Stadt! Frisch, knusprig und reichlich Soße."
+R-1202,2026-11-18,FoodPanda,2,English,Ice cream arrived completely melted. Should use insulated bags.
+R-1203,2026-11-18,Google,3,Telugu (Romanized),"Parledu, average ga undi"
+R-1204,2026-11-18,Zomato,3,Malayalam (Romanized),"Kuzhappamilla, average aanu"
+R-1205,2026-11-19,Amazon,2,English,Ready-to-eat biryani pack tasted nothing like the picture. Too salty.
+R-1206,2026-11-19,Google,1,Hinglish,Order 45 min late aaya aur khana bilkul thanda. Ekdum bekaar experience
+R-1207,2026-11-19,Google,1,Telugu,"గంటన్నర ఆలస్యంగా వచ్చింది, ఆహారం పూర్తిగా చల్లబడిపోయింది."
+R-1208,2026-11-19,Swiggy,3,Telugu,"డెలివరీ త్వరగా వచ్చింది, కానీ రుచి అంతంత మాత్రమే."
+R-1209,2026-11-20,Zomato,2,Telugu (Romanized),"Quantity chala takkuva, iddariki order chesthe okkariki kuda saripoledu"
+R-1210,2026-11-20,FoodPanda,3,French,"Correct, sans plus."
