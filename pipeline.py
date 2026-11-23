@@ -15,6 +15,10 @@ def validate_reviews(raw: pd.DataFrame):
     if missing:
         raise ValueError(f"CSV is missing required columns: {', '.join(missing)}")
 
+        # Keep only the input columns, so re-uploading an exported (enriched) CSV still works
+    keep = REQUIRED_COLUMNS + (["language"] if "language" in df.columns else [])
+    df = df[keep]
+
     if "language" in df.columns:  # keep the file's own language column separately
         df = df.rename(columns={"language": "source_language"})
 
